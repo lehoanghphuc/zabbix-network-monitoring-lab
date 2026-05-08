@@ -30,4 +30,4 @@ to monitor network infrastructure availability and performance.
 ![hosts](Hosts.png)
 
 ### ICMP Response Time Graph
-![icmp-graph](screenshots/icmp-graph.png)
+![icmp-graph](icmp-graph.png)
